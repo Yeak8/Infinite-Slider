@@ -1,4 +1,4 @@
-Programa de tienda online hecha por:
+Programa basada en animacion por albums VIP hecha por:
 # Ricardo Grajales Castillo
 Para actividad del instituto tecnologico de merida (Campus Poniente).
 
