@@ -1,0 +1,1 @@
+export 'entities/entities.dart';  // Exporta el directorio 'entities' que contiene las entidades de la aplicación.

@@ -1,0 +1,1 @@
+export 'magazine.dart';  // Exporta el archivo 'magazine.dart' que contiene la definición de la clase Magazine.
